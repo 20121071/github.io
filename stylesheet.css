@@ -1,10 +1,10 @@
 body{
     /* background: rgb(230, 215, 231); */
-    background: rgb(200, 198, 201);
+    background: rgb(100, 200, 100);
 }
 .contact-us{
     width: 450px;
-    background: rgb(68, 158, 127);
+    background: rgb(40, 78, 127);
     padding: 50px;
     margin: 100px auto;
     border-radius: 30px;
@@ -65,7 +65,7 @@ img{
     border: none;
     padding: 25px 40px;
     box-sizing: border-box;
-    background: rgb(238, 237, 234);
+    background: rgb(179, 35, 234);
 }
 .from-item{
     position: relative;
